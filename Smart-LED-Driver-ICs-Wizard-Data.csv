@@ -1,0 +1,28 @@
+Interface;GEN;Part number;Status;Number of
+LED Drivers;Current per
+LED Driver;Multiplexing;IC Supply Voltage;LED Supply Voltage;Temperature ;Package;Controller;Program 
+Memory;EEPROM;RAM;Boot-loader;Communication 
+speed;PWM
+Resolution;ADC 
+Resolution;Auto
+Address;Special Feature;AECQ-100;ASIL
+LIN ;1;MLX81108KDC-CAE-000-RE;Production;4;48;;5.5 to 18;IC Supply;-40 to 125;SOIC-8 fused;MCU;32;380;1024;LIN fast-LIN;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;1;MLX81109KLW-CAE-100-RE;Production;4;48;;5.5 to 18;IC Supply;-40 to 125;QFN-20 5x5;MCU;32;380;1024;LIN fast-LIN;0.02;16-bit;10-bit;Yes;8-digital IO‘s|5.6V Vref output;✔;
+LIN ;2;MLX81112KDC-AAD-000-RE;Production;4;48;;5.5 to 18;IC Supply;-40 to 125;SOIC-8 fused;MCU;32;256;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;2;MLX81115KLW-AAD-100-RE;Production;6;48;;5.5 to 18;IC Supply;-40 to 125;DFN-12 4x4;MCU;32;256;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;;✔;
+LIN Gateway;2;MLX81120KLW-AAD-100-RE;Production;4;48;;5.5 to 18;IC Supply;-40 to 125;DFN-12 4x4;MCU;32;256;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;LIN-Master-Slave Gateway;✔;
+LIN ;3;MLX81113KDC-BAB-000-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;DFN-12 4x4;MCU;32;368;2048;PPM;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;3;MLX81113KDC-BBB-000-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;SOIC-8ep;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;3;MLX81113KLW-BAB-000-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;DFN-10 3x3;MCU;32;368;2048;PPM;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;3;MLX81113KLW-BBB-000-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;DFN-10 3x3;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;;✔;
+LIN ;3;MLX81114KDC-AAB-000-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;SOIC-8ep;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;Access protection;✔;
+LIN ;3;MLX81118KLW-XYZ-123-RE;Production;24;60;;3 to 18;5.5 to 28 V;-40 to 125;QFN-32 5x5;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;Independant LED supply; GPIO s ??;✔;
+LIN ;4;MLX81123KDC-XYZ-123-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;SOIC-8ep;MCU;32;512;2048;LIN fast-LIN;0.02;16-bit;12-bit;Yes;;✔;
+LIN ;4;MLX81123KLW-XYZ-123-RE;Production;4;60;;4.5 to 18;IC Supply;-40 to 125;QFN-8 3x3;MCU;32;512;2048;LIN fast-LIN;0.02;16-bit;12-bit;Yes;;✔;
+MeLiBu®;1;MLX81116KLW-AAC-100-RE;Production;12;60;2;5.5 to 28;IC Supply;-40 to 125;QFN-24 4x4;MCU;32;368;2048;MeLiBu®;1;16-bit;10-bit;Yes;multiplexing x2 ??;✔;ASIL B
+MeLiBu®;1;MLX81116KLW-AAE-100-RE;Production;12;60;2;5.5 to 28;IC Supply;-40 to 125;QFN-24 4x4;MCU;32;368;2048;MeLiBu®;2;16-bit;10-bit;Yes;;✔;ASIL B
+MeLiBu®;1;MLX81117KLW-AAA-000-RE;Production;16;60;;5.5 to 28;3 to 28;-40 to 125;QFN-32 5x5;MCU;32;368;2048;MeLiBu®;2;16-bit;10-bit;Yes;Independant LED supply;✔;ASIL B
+MeLiBu®;1;MLX81143KLW-XYZ-123-RE;Production;21;60;2;5.5 to 28;2.5 to 10;-40 to 125;QFN-32 5x5;MCU;32;368;4096;MeLiBu®;2;16-bit;10-bit;Yes;Independant LED supply;✔;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;Mbit/s ??;;;;;;
