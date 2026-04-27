@@ -53,4 +53,4 @@ MeLiBu®;2;MLX80142KLW-AAx-000-RE;https://www.melexis.com/en/contact/request-dat
 and 30 RGB LEDs: 
 EVB80142-A: Common Supply
 EVB80142-C: Separated supply;;MUM;Melexis Universal Master;https://www.melexis.com/en/tech-info/programming-and-software-tools/mum;/;;Third parties HW;https://www.melexis.com/en/tech-info/recommended-third-parties/production-and-development-tools
-LIN;3;MLX81119KLW-AAA-000-RE;;PPAP Q4/2026;18;60;;3 to 18;5.5 to 28 V;-40 to 125;QFN-32 5x5;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;Integrated 1A DCDC Step Down Converter;✔;ASIL B;;EVB81119-A1;;;MUM;Melexis Universal Master;https://www.melexis.com/en/tech-info/programming-and-software-tools/mum;Mini E-MLX;;Third parties HW;
+LIN;3;MLX81119KLW-AAA-000-RE;;PPAP Q4/2026;18;60;;3 to 18;5.5 to 28 V;-40 to 125;QFN-32 5x5;MCU;32;368;2048;LIN fast-LIN;0.02;16-bit;10-bit;Yes;Integrated 1A DCDC Step Down Converter;✔;ASIL B;;;;;MUM;Melexis Universal Master;https://www.melexis.com/en/tech-info/programming-and-software-tools/mum;Mini E-MLX;;Third parties HW;
